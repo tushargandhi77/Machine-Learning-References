@@ -1,6 +1,6 @@
 # Machine Learning References
 
-![Langchains](https://img.shields.io/badge/Lang%20Chains-Langchains-blue)
+![Langchains](https://img.shields.io/badge/XG%20Boost-XGBoost-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
 
