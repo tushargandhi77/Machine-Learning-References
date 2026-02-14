@@ -1,5 +1,9 @@
 # Machine Learning References
 
+![Langchains](https://img.shields.io/badge/Lang%20Chains-Langchains-blue)
+![Python](https://img.shields.io/badge/Python-3.10+-green)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Models-orange)
+
 A structured collection of machine learning notebooks, datasets, and small scratch implementations for learning, practice, and interview revision.
 
 ## Why this repository exists
